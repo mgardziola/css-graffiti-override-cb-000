@@ -7,3 +7,8 @@
 #wall #tag-2 {
   display: none;
 }
+
+
+.parent .slick {
+  display: none;
+}
